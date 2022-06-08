@@ -48,13 +48,15 @@ ul {
 }
 
 .li_left{
-	width: 15%;
+	width: 25%;
     margin-top: 0.5%;
+	text-align: left;
 }
 
 .li_right{
-	width: 15%;
+	width: 25%;
     margin-top: 2%;
+	text-align: right;
 }
 
 .whitelink{
