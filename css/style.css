@@ -14,7 +14,12 @@ header{
 	color: white;
 	background-color: #103783 !important; 
 	text-align: center;
-    width: 100%;
+        width: 100%;
+	position: fixed;
+}
+
+main{
+	padding-top: 115px;
 }
 
 nav{
@@ -40,9 +45,10 @@ ul {
 }
 .menu_ul{
     display: flex;
-	align-content: flex-start;
+    align-content: flex-start;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin-bottom: 0px;
 }
 
 .li_left{
