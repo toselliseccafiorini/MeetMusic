@@ -206,6 +206,14 @@ li.noactive a:hover{
     font-weight: bold;                   
 }
 
+.profilo_white{
+	color: white;
+}
+
+.tt_cap{
+	text-transform: capitalize;
+}
+
 .pcenter{
 	text-align: center;
 	font-size: 15pt;
